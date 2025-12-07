@@ -21,7 +21,9 @@ Developer: hagionAI
 Contact: soporte@hagionai.com
 
 
-damelo en ingles, # Eliminación de cuenta – hagionAI
+
+
+
 
 Si deseas eliminar tu cuenta de hagionAI, sigue estos pasos:
 
